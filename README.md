@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HotCocoa357
-- 🏫 I’m currently learning Eletronic and Information Engineering in college.
+- 🏫 I’m currently learning Eletronic Information Engineering in college.
 - 📫 Reach me: zhaoqiman030507@gmail.com
 
 <!---
