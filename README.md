@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HotCocoa357
 - 🏫 I’m currently learning Eletronic Information Engineering in college.
+- 🤩 Interested in Cpp and embedded system.
 - 📫 Reach me: zhaoqiman030507@gmail.com
 
 <!---
